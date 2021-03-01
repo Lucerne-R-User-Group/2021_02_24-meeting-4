@@ -1,6 +1,6 @@
 # 2021_02_24-meeting-4
 Repo for the forth meeting of the Lucerne R User group.
-Topic of the day: temporal-spatial visualization and text analytics.
+Topics of the day: temporal-spatial visualization and text analytics.
 
 
 ## Schedule
